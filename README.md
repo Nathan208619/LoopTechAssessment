@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-Download or Clone this repo.
+Download or clone this repository.
 
 ---
 
