@@ -2,6 +2,10 @@
 
 ## Prerequisites
 
+Download or Clone this repo.
+
+---
+
 Install Node.js:
 
 - https://nodejs.org/
