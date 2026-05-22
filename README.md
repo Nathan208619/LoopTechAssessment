@@ -1,4 +1,4 @@
-# Playwright Environment Setup
+# Loop Technical Evaluation Project Setup
 
 ## Prerequisites
 
@@ -42,6 +42,3 @@ npx playwright install
 ```bash
 npx playwright test
 ```
-
----# LoopTechAssessment
-# LoopTechAssessment
